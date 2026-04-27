@@ -501,7 +501,7 @@ Interaction DiD × Revenu_q :
 
 **Adededji Djamiou ABAYOMI**
 Maîtrise en Sciences des données / Économétrie  
-Université de Montréal · [2025]
+Université de Montréal · 2025.
 
 ---
 
