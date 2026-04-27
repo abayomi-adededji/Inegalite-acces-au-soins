@@ -499,7 +499,7 @@ Interaction DiD × Revenu_q :
 
 ## 👤 Auteur
 
-**[Votre Nom]**  
+**Adededji Djamiou ABAYOMI**
 Maîtrise en Sciences des données / Économétrie  
 Université de Montréal · [2025]
 
